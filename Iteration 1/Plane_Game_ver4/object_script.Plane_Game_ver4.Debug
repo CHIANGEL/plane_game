@@ -1,0 +1,15 @@
+INPUT(
+./debug\bullet.o
+./debug\enemy.o
+./debug\entity.o
+./debug\explosion.o
+./debug\factory.o
+./debug\game_logic.o
+./debug\gui_app.o
+./debug\musicplay.o
+./debug\plane.o
+./debug\reward.o
+./debug\main.o
+./debug\qrc_resource.o
+./debug\moc_gui_app.o
+);
